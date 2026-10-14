@@ -4,6 +4,11 @@ An aesthetic, responsive, and resilient Full-Stack Student Task Manager built wi
 
 ---
 
+### Visit live link : `https://student-task-manager-study-producti.vercel.app/`
+
+----------
+
+
 ## 🌟 Key Highlights & Rubric Checklist
 
 ### Core Requirements (from Assignment Rubric)
@@ -35,8 +40,6 @@ An aesthetic, responsive, and resilient Full-Stack Student Task Manager built wi
 
 ---
 
-
-###Visit live link : `https://student-task-manager-study-producti.vercel.app/`
 
 ---
 
