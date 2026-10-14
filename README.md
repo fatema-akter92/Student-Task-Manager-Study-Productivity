@@ -36,7 +36,7 @@ An aesthetic, responsive, and resilient Full-Stack Student Task Manager built wi
 ---
 
 
-Open your browser at: `http://localhost:5173`
+###Visit live link : `https://student-task-manager-study-producti.vercel.app/`
 
 ---
 
